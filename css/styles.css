@@ -1,0 +1,12 @@
+.author{
+  text-align: center;
+  font-family: Courier;
+  font-size: 30;
+  color:#f3f706;
+  background-image:url(../assets/game.jpeg);
+}
+
+h1 {
+  background-color:#7f1206
+  font-size: 40;
+}
