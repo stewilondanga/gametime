@@ -4,6 +4,8 @@
   font-size: 30;
   color:#f3f706;
   background-image:url(../assets/game.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 h1 {
