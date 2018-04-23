@@ -1,6 +1,11 @@
 # Gametime
 A simple mathematics game using JavaScript language
+
 By Stewart ilondanga
+
+stilondanga@gmail.com
+
+copyright 2018
 
 ## Description
 Simply put it is a HTML form which uses JavaScript to capture numerical input and print to screen the output
